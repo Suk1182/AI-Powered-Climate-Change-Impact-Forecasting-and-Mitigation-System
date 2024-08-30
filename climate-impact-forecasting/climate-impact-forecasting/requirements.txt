@@ -1,0 +1,10 @@
+
+tensorflow
+pandas
+geopandas
+scikit-learn
+flask
+paho-mqtt
+plotly
+streamlit
+joblib
